@@ -1,2 +1,2 @@
 # my-profile
-Blob storage for my portfolio
+This is a storage for my portfolio website.
